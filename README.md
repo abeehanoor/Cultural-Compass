@@ -1,16 +1,17 @@
-# cultural_app
+# Cultural_Compass
 
-A new Flutter project.
+# Introduction
 
-## Getting Started
+Welcome to the Cultural Compass app, a unique platform designed to bring the hidden historical gems of Pakistan to the forefront of tourism. Our mission is to increase awareness and appreciation of these underappreciated sites, enriching the cultural experience for locals and tourists alike.
 
-This project is a starting point for a Flutter application.
+# Key Features
 
-A few resources to get you started if this is your first Flutter project:
+Discover Hidden Sites: Explore a curated list of lesser-known historical locations across Pakistan.
+Navigation Assistance: Get easy-to-follow directions to each site.
+Detailed Descriptions: Learn about the history and significance of each location.
+Build Profile: Create your profile with your name, bio and bitmoji. 
+Tour Planning: Organize and plan your visits by saving locations you like. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Currently in the process of being uploaded on Google Play Store. It will be available on the play store under the name "cultural compass" within two weeks. 
